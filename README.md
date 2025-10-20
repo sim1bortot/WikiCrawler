@@ -73,7 +73,7 @@ Enter the target page title: Ancient Egypt
 🎯 Target to find: 'Ancient Egypt'
 
 [1/500] Visiting: [https://en.wikipedia.org/wiki/Cat](https://en.wikipedia.org/wiki/Cat)
-[2/500] Visiting: [https://en.wikipedia.org/wiki/Felis](https://en.wikipedia.org/wiki/Felis)
+...
 ...
 [25/500] Visiting: [https://en.wikipedia.org/wiki/Ancient_Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt)
 
