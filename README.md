@@ -26,9 +26,8 @@ To run this script on your local machine, follow these steps.
 * **pip** (Python's package installer).
 
 ### Installation Steps
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
+1.  **Download the repository**
+    ```
     cd your-repository
     ```
 
